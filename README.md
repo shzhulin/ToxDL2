@@ -1,4 +1,4 @@
-#ToxDL 2.0: Protein toxicity prediction based on pretrained language model with graph neural networks
+# ToxDL 2.0: Protein toxicity prediction based on pretrained language model with graph neural networks
 <br>
 Assessing the potential toxicity of proteins is crucial for therapeutic proteins, facilitating accurate protein toxicity prediction for both therapeutic and agricultural applications. Traditional experimental methods for toxicity evaluation are time-consuming, expensive, and labor-intensive, highlighting the requirement for efficient computational approaches. Recent advancements in language models and deep learning have significantly improved protein toxicity prediction, yet current models often lack the ability to integrate spatial and structural information, which is crucial for accurate toxicity assessment.
 <br>
