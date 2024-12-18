@@ -38,9 +38,9 @@ The project contains the following files and directories:
 <br>
 ```src/dataset.py```: Dataset loading and preprocessing.
 <br>
-```src/train_tAMPer.py```: Training pipeline.
+```src/train_ToxDL2.py```: Training pipeline.
 <br>
-```src/predict_tAMPer.py```: Script for making toxicity predictions on new data.
+```src/predict_ToxDL2.py```: Script for making toxicity predictions on new data.
 <br>
 ```src/model.py```: Implementation of network architecture of ToxDL 2.0.
 <br>
