@@ -50,6 +50,7 @@ The project contains the following files and directories:
 # Demo
 ## Run ToxDL 2.0 for training
 You first make empty directory "checkpoints/" and "predictions/", then directly run the below command to run ToxDL 2.0 model with default hyperparamters:
+<br>
 ```python train_ToxDL2.py```
 <br>
 The above command will output performance metrics in F1-score, MCC, auROC and auPRC.
